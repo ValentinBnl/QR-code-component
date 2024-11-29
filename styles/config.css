@@ -1,0 +1,23 @@
+/* ===================
+   Fonts
+   =================== */
+
+@font-face {
+	font-family: "Outfit";
+	src: url("/assets/Outfit/Outfit-Regular.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Outfit Bold";
+	src: url("/assets/Outfit/Outfit-Bold.ttf") format("truetype");
+}
+
+/* ===================
+   VARIABLES
+   =================== */
+
+:root {
+	/* ---Polices--- */
+	--font-primary: "Outfit";
+	--font-secondary: "Outfit Bold";
+}
